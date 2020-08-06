@@ -4,4 +4,4 @@
 
 ###step by step procedure of experiment
 
-![output](103.jpg)
+![output](101.jpg)
