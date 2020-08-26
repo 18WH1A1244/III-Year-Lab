@@ -4,4 +4,4 @@
 
 ###step by step procedure of experiment
 
-![output](Screenshot (3).PNG)
+![output](Screenshot (3).png)
