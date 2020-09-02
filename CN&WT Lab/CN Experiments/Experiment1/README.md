@@ -3,8 +3,11 @@
 ##Aim of Experiment
 
 To implement data link layer framing techniques such as :
+
 i.character count
+
 ii.character stuffing and
+
 iii.bit stuffing
 
 
