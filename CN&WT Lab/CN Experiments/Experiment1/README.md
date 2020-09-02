@@ -18,4 +18,13 @@ iii.bit stuffing
 #### For Bit stuffing
 1.Take the input as number of frames 2.Enter Databits 3.Apply the bitstuffing logic at the sender side 4.De-stuff the bits at the receiver side and print the output.
 
-![output](output.png)
+### Outputs
+
+### Character Count
+![output](charactercount.png)
+
+####Character Stuffing
+![output](characterstuffing.png)
+
+####Bit Stuffing
+![output](bitstuffing.png)
