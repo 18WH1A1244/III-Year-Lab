@@ -21,10 +21,13 @@ iii.bit stuffing
 ### Outputs
 
 ### Character Count
+
 ![output](charactercount.png)
 
 ####Character Stuffing
+
 ![output](characterstuffing.png)
 
 ####Bit Stuffing
+
 ![output](bitstuffing.png)
